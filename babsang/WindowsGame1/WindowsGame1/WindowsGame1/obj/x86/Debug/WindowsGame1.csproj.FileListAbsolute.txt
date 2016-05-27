@@ -1,0 +1,110 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ball.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ball.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\kimchi.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_1.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_2.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\soup.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\table.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ttukbaegi.xnb
+C:\Users\Administrator\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_test.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ball.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\kimchi.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_1.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_2.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\soup.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\table.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ttukbaegi.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_test.xnb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\babsang\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ball.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\background.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\kimchi.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\rice_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\soup.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\table.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\ttukbaegi.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\font.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\DebugViewXNA.dll
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\DebugViewXNA.pdb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\DebugViewXNA.xml
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\testeffect.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\BloomExtract.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Blur.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\title_test.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_hit.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_hit.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back_1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\friz.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_sat.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby_crying_1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\baby_crying_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_stand.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_table_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_table_3.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_table_4.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_table_5.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_sat.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_stand_1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_table_2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_table_3.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_table_4.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_table_5.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\glass.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hit2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\hit1.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgm.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\bgm.wma
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\start.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\dad_win.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mom_win.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\co.xnb
+C:\Users\admin\Desktop\babsang\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\co.wma
